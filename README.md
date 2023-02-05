@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thank you for visiting my Github prfoile.
+Thank you for visiting my Github profile.
 
 <!--
 **amin-aoka/amin-aoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

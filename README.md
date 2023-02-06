@@ -1,6 +1,6 @@
 ### Hi there 👋
 Thank you for visiting my Github profile.
-<img src= "gitr.jpg" alt= "developer img">
+<img src="Gitr.jpg" alt= "developer img">
 <!--
 **amin-aoka/amin-aoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

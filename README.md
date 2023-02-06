@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amin Koupaie
 <h3>an ambitious junior frontend wed developer.</h3>
-i am almost learing for two years
+I began learning web development since 2021
 <br>
 Thank you for visiting my Github profile.
 <br>

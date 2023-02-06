@@ -4,10 +4,10 @@ Thank you for visiting my Github profile.
 <br>
 - 🔭 I’m currently working on Educational React Project to develope an expense tracker<br>
 - 🌱 I’m learning React JS via projects<br>
-- 👯 I’m looking to collaborate on any web bevelopment projects
-- 🤔 Any career advice is welcomed.
-- 💬 Ask me about HTML,CSS,JavaScript and React
-- 📫 How to reach me: You can email me at amin.aoka@gmail.com
+- 👯 I’m looking to collaborate on any web bevelopment projects<br>
+- 🤔 Any career advice is welcomed.<br>
+- 💬 Ask me about HTML,CSS,JavaScript and React<br>
+- 📫 How to reach me: You can email me at amin.aoka@gmail.com<br>
 <!--
 **amin-aoka/amin-aoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

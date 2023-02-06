@@ -7,6 +7,15 @@
 - 🤔 Any career advice is welcomed.<br>
 - 💬 Ask me about HTML,CSS,JavaScript and React<br>
 - 📫 You can email me at amin.aoka@gmail.com<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align=left><img src = "html.jpg">
+<p align=left><img src = "css.jpg">
+<p align=left><img src = "js.jpg">
+<p align=left><img src = "react.jpg">
+<p align=left><img src = "git.jpg">
+  
+ 
+
 <!--
 **amin-aoka/amin-aoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
-### Hi there 👋 I'm, Amin Koupaie
-##an ambitious junior frontend wed developer.
+### Hi there 👋 I'm Amin Koupaie
+<h3>an ambitious junior frontend wed developer.</h3>
 i am almost learing for two years
 <br>
 Thank you for visiting my Github profile.

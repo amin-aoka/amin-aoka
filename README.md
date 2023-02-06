@@ -2,8 +2,8 @@
 <br>
 Thank you for visiting my Github profile.
 <br>
-- 🔭 I’m currently working on Educational React Project to develope an expense tracker
-- 🌱 I’m learning React JS via projects
+- 🔭 I’m currently working on Educational React Project to develope an expense tracker<br>
+- 🌱 I’m learning React JS via projects<br>
 - 👯 I’m looking to collaborate on any web bevelopment projects
 - 🤔 Any career advice is welcomed.
 - 💬 Ask me about HTML,CSS,JavaScript and React

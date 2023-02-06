@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m currently working on Educational React Project to develope an expense tracker<br>
 - 🌱 I’m learning React JS via projects<br>
-- 👯 I’m looking to collaborate on any web bevelopment projects<br>
+- 👯 I’m looking to collaborate on any web development projects<br>
 - 🤔 Any career advice is welcomed.<br>
 - 💬 Ask me about HTML,CSS,JavaScript and React<br>
 - 📫 You can email me at amin.aoka@gmail.com<br>

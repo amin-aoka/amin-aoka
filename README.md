@@ -2,10 +2,9 @@
 <h3 align =center> An ambitious junior frontend web developer.</h3>
 <h3> About me </h3>
 - 🔭 I’m currently working on Educational React Project to develope an expense tracker<br>
-- 🌱 I’m learning React JS via projects<br>
-- 👯 I’m looking to collaborate on any web development projects<br>
+- 🌱 Also, i’m learning React JS via projects<br>
+- 👯 I’m looking to collaborate on frontend web development projects as junior developer<br>
 - 🤔 Any career advice is welcomed.<br>
-- 💬 Ask me about HTML,CSS,JavaScript and React<br>
 - 📫 You can email me at amin.aoka@gmail.com<br>
 <h3 align="left">Languages and Tools:</h3>
 <span><img width=80 height=80 src = "html.jpg">
